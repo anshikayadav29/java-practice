@@ -23,4 +23,12 @@ console.log(b) it's not  valid */
 const b =[4,5,6,7];
 console.log(b);
 b[0]=10;
-console.log(b) 
+console.log(b)   
+/*arr =[4,"Mini",7,9,true,[2,4,5,4];
+console.log(arr);
+
+2nd code
+
+brr =[1,2,3,4],[3,4,5,6];
+console.log(brr);*/
+
